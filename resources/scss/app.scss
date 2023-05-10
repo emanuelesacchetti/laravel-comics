@@ -1,0 +1,30 @@
+@import '~bootstrap/scss/bootstrap';
+
+.jumbotron {
+    height: 400px;
+    width: 100%;
+    background-image: url(images/jumbotron.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.absolute-btn {
+    position: absolute;
+    bottom: -20px;
+    left: 150px;
+    padding: 10px;
+    color: white;
+}
+
+.card {
+    height: 400px;
+}
+
+.header-bottom img {
+    width: 50px;
+}
+
+.mainHome {
+    padding: 300px 0;
+}
