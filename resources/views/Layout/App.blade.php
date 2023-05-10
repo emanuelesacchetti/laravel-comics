@@ -12,6 +12,7 @@
     @include('Partials.header')
 
     <main>
+        <span class="absolute-btn bg-primary">ciao</span>
         @yield('content') 
     </main>
 

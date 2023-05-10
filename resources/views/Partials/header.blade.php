@@ -40,9 +40,5 @@
         </div>
     </div>
 
-    <div class="jumbotron">
-        <div class="container">
-                 <span class="absolute-btn bg-primary">ciao</span> 
-        </div>
-    </div>
+    <div class="jumbotron"></div>
 </header>
